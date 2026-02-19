@@ -1,8 +1,8 @@
 # Capstone-Initial-Report-and-Exploratory-Data-Analysis-EDA-
 Capstone: Initial Report and Exploratory Data Analysis (EDA)
 Supply Chain SLA Risk Prediction
-
-Author: Roy José Arce
+https://github.com/rarces82-rockyory/Capstone-Initial-Report-and-Exploratory-Data-Analysis-EDA-
+Author: Roy Arce
 
 Executive Summary
 This project analyzes shipment performance data to understand the drivers of Service Level Agreement (SLA) compliance and to develop a predictive model for identifying shipments at risk of missing SLA.
@@ -127,3 +127,5 @@ Outline of project
 Use SHAP values for deeper interpretability
 Develop a real-time SLA risk dashboard
 Incorporate operational capacity metrics
+
+
